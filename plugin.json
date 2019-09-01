@@ -1,0 +1,12 @@
+{
+  "ID":"8FF8F0DD3D4C4E12836DDAF2F6CD5559",
+  "ActionKeyword":"jisho",
+  "Name":"jisho",
+  "Description":"Jisho",
+  "Author":"zhuth",
+  "Version":"1.0.0",
+  "Language":"python",
+  "Website":"https://zhuth.github.io",
+  "IcoPath": "Images\\icon.png",
+  "ExecuteFileName":"main.py"
+}

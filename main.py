@@ -1,13 +1,7 @@
 import requests
 from bs4 import BeautifulSoup as B
 import pyperclip
-
-try:
-    from wox import Wox, WoxAPI
-except ImportError:
-    import sys
-    sys.path.insert(0, r'..\..\..\..\Local\Wox\app-1.3.524\JsonRPC')
-    from wox import Wox, WoxAPI
+from wox import Wox, WoxAPI
 
 
 class Main(Wox):
